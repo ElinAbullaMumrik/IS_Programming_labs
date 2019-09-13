@@ -1,0 +1,3 @@
+C:/Users/Public/CLionProjects/Proga_lab1/cmake-build-debug/CMakeFiles/Proga_lab1.dir
+C:/Users/Public/CLionProjects/Proga_lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Public/CLionProjects/Proga_lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
