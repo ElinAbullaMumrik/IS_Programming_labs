@@ -5,8 +5,7 @@ int main() {
         printf("%d ", array[i]);
     }
     int arr1[2][2] = {1, 2, 3, 1};
-    int arr2[2][2] = {1, 1, 0, 2};
-    int arr2[2][2] = {1, 1, 0, 2};
+    int arr2[2][2] = {1, 0, 0, 1};
     int rez_arr[2][2];
     for (int i=0; i<2; i++){
         for (int j=0; j<2; j++){

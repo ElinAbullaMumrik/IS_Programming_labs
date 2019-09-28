@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Public/CLionProjects/Proga_lab_5
+# Install script for directory: C:/Users/Public/CLionProjects/IS_programming_labs/Proga_lab5
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Public/CLionProjects/Proga_lab_5/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Public/CLionProjects/IS_programming_labs/Proga_lab5/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

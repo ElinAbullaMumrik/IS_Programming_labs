@@ -11,7 +11,70 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47876562-8f44-4523-a723-c7e0d3368679" name="Default Changelist" comment="" />
+    <list default="true" id="47876562-8f44-4523-a723-c7e0d3368679" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Proga_lab3.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Proga_lab3.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Proga_lab3.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Proga_lab3.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Proga_lab3.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Proga_lab3.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Proga_lab3.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Proga_lab3.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Proga_lab3.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Proga_lab3.dir/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Proga_lab3.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Proga_lab3.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Proga_lab3.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Proga_lab3.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Proga_lab3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Proga_lab3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Proga_lab4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab4/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Proga_lab4/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab4/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Proga_lab4/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab4/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Proga_lab4/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab4/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Proga_lab4/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab4/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Proga_lab4/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab4/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../Proga_lab4/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab4/cmake-build-debug/CMakeFiles/Proga_lab4.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab4/cmake-build-debug/CMakeFiles/Proga_lab4.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Proga_lab4/cmake-build-debug/CMakeFiles/Proga_lab4.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab4/cmake-build-debug/CMakeFiles/Proga_lab4.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Proga_lab4/cmake-build-debug/CMakeFiles/Proga_lab4.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab4/cmake-build-debug/CMakeFiles/Proga_lab4.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab4/cmake-build-debug/CMakeFiles/Proga_lab4.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Proga_lab4/cmake-build-debug/CMakeFiles/Proga_lab4.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab4/cmake-build-debug/CMakeFiles/Proga_lab4.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab4/cmake-build-debug/CMakeFiles/Proga_lab4.dir/objects.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab4/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Proga_lab4/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab4/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Proga_lab4/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab4/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Proga_lab4/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab4/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Proga_lab4/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab4/cmake-build-debug/Proga_lab4.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../Proga_lab4/cmake-build-debug/Proga_lab4.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab4/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Proga_lab4/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Proga_lab5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab5/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Proga_lab5/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab5/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Proga_lab5/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab5/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Proga_lab5/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab5/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Proga_lab5/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab5/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Proga_lab5/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab5/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../Proga_lab5/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab5/cmake-build-debug/CMakeFiles/Proga_lab_5.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab5/cmake-build-debug/CMakeFiles/Proga_lab_5.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Proga_lab5/cmake-build-debug/CMakeFiles/Proga_lab_5.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab5/cmake-build-debug/CMakeFiles/Proga_lab_5.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Proga_lab5/cmake-build-debug/CMakeFiles/Proga_lab_5.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab5/cmake-build-debug/CMakeFiles/Proga_lab_5.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab5/cmake-build-debug/CMakeFiles/Proga_lab_5.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Proga_lab5/cmake-build-debug/CMakeFiles/Proga_lab_5.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab5/cmake-build-debug/CMakeFiles/Proga_lab_5.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab5/cmake-build-debug/CMakeFiles/Proga_lab_5.dir/objects.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab5/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Proga_lab5/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab5/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Proga_lab5/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab5/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Proga_lab5/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab5/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Proga_lab5/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab5/cmake-build-debug/Proga_lab_5.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../Proga_lab5/cmake-build-debug/Proga_lab_5.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab5/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Proga_lab5/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proga_lab6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Proga_lab6/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +105,25 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="802024519">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="c" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="ObjectiveC" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -53,13 +135,16 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="5" selection-start-line="4" selection-end-line="5" />
+            <state relative-caret-position="187">
+              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -80,6 +165,7 @@
     <option name="width" value="981" />
     <option name="height" value="735" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -91,6 +177,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -135,28 +222,28 @@
       <workItem from="1568390056301" duration="2315000" />
       <workItem from="1568406626550" duration="924000" />
       <workItem from="1568408272016" duration="133000" />
+      <workItem from="1568438898486" duration="472000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3372000" />
+    <option name="totallyTimeSpent" value="3844000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-5" y="69" width="981" height="735" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2562432" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2616721" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32459018" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32445922" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32786885" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.327787" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
@@ -179,8 +266,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="5" selection-start-line="4" selection-end-line="5" />
+        <state relative-caret-position="187">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
         </state>
       </provider>
     </entry>
